@@ -25,7 +25,7 @@ No és el millor disseny ho sé, el proper invent el farem millor.
 
 I bàsicament així es com va quedar tot muntat:
 
-![placa cutre](https://github.com/indiketa/roomba/blob/master/assets/muntada.jpg | width=250 "Muntada1")
+<img src="https://github.com/indiketa/roomba/blob/master/assets/muntada.jpg"  width="250" />
 ![placa cutre](https://github.com/indiketa/roomba/blob/master/assets/muntada2.jpg  =250x "Muntada2")
 
 I acoplat a la arduino uno:
