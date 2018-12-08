@@ -18,19 +18,19 @@ Ara sí, ja ho tenim tot, dissenyem el circuit amb l'eagle:
 
 Primer vaig provar-ho tot en una protoboard i va funcionar, però el manyoc de cables per no fer res era considerable. Total que vaig decidir fer-me la placa amb l'EAGLE i fer-la imprimir per internet.La vaig imprimir a https://www.seeedstudio.io:
 
-![placa cutre](https://github.com/indiketa/roomba/blob/master/assets/pcb.png =250x"Placa")
-![placa cutre](https://github.com/indiketa/roomba/blob/master/assets/pcb2.jpg  =250x "Placa impresa")
+<img src="https://github.com/indiketa/roomba/blob/master/assets/pcb.png" width="250" />
+<img src="https://github.com/indiketa/roomba/blob/master/assets/pcb2.jpg" width="250" />
 
 No és el millor disseny ho sé, el proper invent el farem millor. 
 
 I bàsicament així es com va quedar tot muntat:
 
-<img src="https://github.com/indiketa/roomba/blob/master/assets/muntada.jpg"  width="250" />
-![placa cutre](https://github.com/indiketa/roomba/blob/master/assets/muntada2.jpg  =250x "Muntada2")
+<img src="https://github.com/indiketa/roomba/blob/master/assets/muntada.jpg" width="250" />
+<img src="https://github.com/indiketa/roomba/blob/master/assets/muntada2.jpg" width="250" />
 
 I acoplat a la arduino uno:
 
-![placa cutre](https://github.com/indiketa/roomba/blob/master/assets/ambunor3.jpg  =250x "Acoblada")
+<img src="https://github.com/indiketa/roomba/blob/master/assets/ambunor3.jpg" width="250" />
 
 Com veieu, al fi i al cap, controlar les hores era el menys important ;)
 El cost final del projecte van ser 10€ per l'arduino, 3€ per l'RTC, 3€ per la controladora SD, 5€ per la placa (mínim 5 copies, me'n sobren 4 si algú les vol), i la resistencia LDR no ho sé: cèntims d'euro.
