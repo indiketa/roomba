@@ -1,9 +1,10 @@
 # roomba
 Fa uns mesos que tenim una persona que vé a casa i ens ajuda amb les feines... n'estem molt contents, però darrerament sospitem que s'hi està molt menys temps del que hem pactat. Aquesta persona vé quan som fora i no tenim forma de saber-ho... Sempre havía volgut fer alguna cosa amb arduino: ara en tenia l'oportunitat.
 
-Aquest projecte és una xorrada, si hi busques grans desenvolupaments o descobriments, t'has equivocat de repositori! Aquest és un simple divertimento.
+Aquest projecte és una xorrada: Si busques grans desenvolupaments o descobriments t'has equivocat de repositori (i d'usuari)! 
+Això és un simple divertimento.
 
-Com que tampoc volía complicar-me la vida (i arriscar-me a fer alguna cosa que no funcionés), vaig decidir muntar el projecte envers a una resistencia LDR: Un tipus de resistència que varia en funció de la llum que hi ha a l'entorn. La idea és situar això a prop de l'entrada, cada vegada que s'obri la porta del carrer la llum variarà de forma substancial, ho detectarem i ens ho guardarem en un registre (log).
+Com que tampoc volía complicar-me la vida (i arriscar-me a fer alguna cosa que no funcionés), vaig decidir muntar el projecte envers a una resistencia LDR: Un tipus de resistència que varia en funció de la llum que hi ha a l'entorn. La idea és situar això a prop de l'entrada, cada vegada que s'obri la porta del carrer la llum variarà de forma substancial, ho detectarem i ens ho guardarem en un registre textual.
 
 Per controlar això hem fet servir una arduino petita xina que hem [trobat](https://www.amazon.es/dp/B01M7ZB2B4?aaxitk=gaqGsul2mgWlRdqk36D8Dw&pd_rd_i=B01M7ZB2B4&pf_rd_p=b4a87efe-46df-474d-b505-3bf1bb51624b&hsa_cr_id=9182184180602&sb-ci-n=productDescription&sb-ci-v=Elegoo%20UNO%20R3%20Tarjeta%20UNO%20R3%20Placa%20con%20Microcontrolador%20Basada%20en%20el%20ATmega328P%20ATMEGA16U2%20con%20Cable%20USB%20Compatible%20con%20Arduino%20UNO%20Tarjeta) a l'amazon!
 
@@ -29,3 +30,6 @@ I acoplat a la arduino uno:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 Com veieu, al fi i al cap, controlar les hores era el menys important ;)
+El cost final del projecte van ser 10€ per l'arduino, 3€ per l'RTC, 3€ per la controladora SD, 5€ per la placa (mínim 5 copies, me'n sobren 4 si algú les vol), i la resistencia LDR no ho sé: cèntims d'euro.
+
+I vet aquí un gat i vet aquí un gos, que aquest compte ja s'ha fos.
