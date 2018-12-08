@@ -15,10 +15,10 @@ Ara ja ho tenim tot, vam dissenyar el circuit amb l'eagle:
 
 ![esquema](https://github.com/indiketa/roomba/blob/master/assets/esquema.png "Esquema")
 
-Primer vaig provar-ho tot en una protoboard, però el fet de tenir un manyoc de cables que em recordava al rack de comunicacions d'alguna empresa no m'acabava d'agradar, vaig aprendre una mica més d'EAGLE i vaig dissenyar la placa, que vaig imprimir a https://www.seeedstudio.io/:
+Primer vaig provar-ho tot en una protoboard i va funcionar, però el manyoc de cables per no fer res era considerable. Total que vaig decidir fer-me la placa amb l'EAGLE i fer-la imprimir per internet.La vaig imprimir a https://www.seeedstudio.io:
 
 ![placa cutre](https://github.com/indiketa/roomba/blob/master/assets/pcb.png "Placa")
-
+No és el millor disseny ho sé, el proper invent el farem millor. 
 
 I bàsicament així es com va quedar tot muntat:
 
