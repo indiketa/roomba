@@ -18,7 +18,7 @@ Ara sí, ja ho tenim tot, dissenyem el circuit amb l'eagle:
 
 Primer vaig provar-ho tot en una protoboard i va funcionar, però el manyoc de cables per no fer res era considerable. Total que vaig decidir fer-me la placa amb l'EAGLE i fer-la imprimir per internet.La vaig imprimir a https://www.seeedstudio.io:
 
-<img src="https://github.com/indiketa/roomba/blob/master/assets/pcb.png" width="250" />
+![esquema2](https://github.com/indiketa/roomba/blob/master/assets/pcb.png "Esquema2")
 <img src="https://github.com/indiketa/roomba/blob/master/assets/pcb2.jpg" width="250" />
 
 No és el millor disseny ho sé, el proper invent el farem millor. 
